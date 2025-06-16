@@ -7,3 +7,5 @@ The Group members including me who worked on this are:
 2. Pransu Vadsmiya
 3. Soham Mevada
 4. Arhaan Shah 
+
+This Project was intended to learn the concepts of Database Management System.
